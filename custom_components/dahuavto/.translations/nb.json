@@ -1,0 +1,21 @@
+{
+  "config": {
+    "title": "Dahua VTO",
+    "step": {
+      "user": {
+        "title": "Sett opp Dahua VTO",
+        "data": {
+          "host": "Vert",
+          "name": "Navn",
+          "port": "Port",
+          "username": "Brukernavn",
+          "password": "Passord"
+        }
+      }
+    },
+    "abort": {
+      "already_setup": "Installasjonen er allerede fullført",
+      "one_instance_only": "Bare en integrasjon er støttet"
+    }
+  }
+}
